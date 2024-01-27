@@ -1,5 +1,5 @@
 https://github.com/Daymino/Lab1-Makhsotov-Baktybek
 
 git add .
-git commit -m "lab1"
+git commit -m "lab2"
 git push
