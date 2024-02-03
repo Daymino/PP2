@@ -1,2 +1,2 @@
-#Exercise 1
-print("anything")
+#Exercise 1 
+print("new file")
