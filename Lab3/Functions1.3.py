@@ -12,6 +12,6 @@ legs = 94
 
 result = solve(heads, legs)
 
-rabbits, chickens = result # Unpack a tuple
+rabbits, chickens = result 
 
-print("The number of rabbits is",rabbits,"The number of chickens is", chickens)
+print(rabbits,chickens)
