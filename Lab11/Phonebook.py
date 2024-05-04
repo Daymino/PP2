@@ -1,4 +1,4 @@
-import psycopg2
+import psycopg2 # type: ignore
 import re
 
 def main():
@@ -6,8 +6,8 @@ def main():
         host="localhost",
         database="postgres",
         user="postgres",
-        password= "pro100inubik"
-    )
+        password= "Daymino220304.z"
+        )
     connection.autocommit = True
     cursor = connection.cursor()
     

@@ -1,4 +1,4 @@
-import psycopg2
+import psycopg2 # type: ignore
 def main():
     connection = psycopg2.connect(
         host="localhost",
